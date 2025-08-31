@@ -1,0 +1,15 @@
+{
+    "type": "code",
+    "modid": "talesofoldman",
+    "name": "Tales of OldMan",
+    "authors": [
+        "tacf"
+    ],
+    "description": "Collection of mods to allow for a more diverse costumization and gameplay options",
+    "version": "0.0.1",
+    "dependencies": {
+        "game": "1.21.0",
+        "configlib": "1.10.1",
+        "vsimgui": "1.1.12"
+    }
+}
